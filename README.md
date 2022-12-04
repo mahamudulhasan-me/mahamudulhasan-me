@@ -10,7 +10,7 @@ I'm Mahmudul Hasan, a Full Stack Web Application Developer from <img src="assets
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahamudulhasan.me) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahamudulhasan-me/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahamudul_hasanx) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahamudulhasanx) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamudulhasan.org@gmail.com)
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
+:hearts: &emsp;I enjoy programming and love to lean new things. <br/>
 :computer: &emsp;I'm currently learning <img src="assets/logo.svg" width="50px" alt="node"><br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: mahamudulhasan.org@gmail.com.<br/>
@@ -22,19 +22,17 @@ I'm Mahmudul Hasan, a Full Stack Web Application Developer from <img src="assets
 
 <details>
 <summary>
- <h3>You wanna know more about me?</h3>
+ <h4>You wanna know more about me?</h4>
 </summary>
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+𝙸 𝚊𝚖 𝚊 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚘𝚏 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚒𝚗 𝚍𝚑𝚊𝚔𝚊 𝚒𝚗𝚝𝚎𝚛𝚗𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢. 𝙸 𝚕𝚘𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊𝚗𝚍 𝚊𝚖 𝚟𝚎𝚛𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜.
 
-#### What is Learn with Sumit?
 
-"Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasan-me&count_private=true&theme=tokyonight&hide=contribs,prs)
+![mahamudulhasan-me's github stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasan-me&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
