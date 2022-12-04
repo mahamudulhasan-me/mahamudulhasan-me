@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://bit.ly/3XXTGew" align="center" style="width: 100%" />
+<img src="Github cover page.jpg" style="width: 100%" />
 </div> 
 
 ## Hi there my gorgeous friend <img src="hi.gif" width="50px" alt="hi">
