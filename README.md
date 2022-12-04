@@ -2,9 +2,9 @@
 <img src="https://bit.ly/3XXTGew" align="center" style="width: 100%" />
 </div> 
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend <img src="hi.gif" width="28px" alt="hi">
 
-I'm Mahmudul Hasan, a Full Stack Web Application Developer from 🇧🇩 Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Mahmudul Hasan, a Full Stack Web Application Developer from <img src="bangladesh.png" width="28px" alt="hi"> Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
 
 :coffee: &emsp;Connect with me!
 
