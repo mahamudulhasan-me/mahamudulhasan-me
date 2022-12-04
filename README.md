@@ -1,19 +1,19 @@
 <div align="center">
-<img src="asstes/Github cover page.jpg" style="width: 100%" />
+<img src="assets/Github cover page.jpg" style="width: 100%" />
 </div> 
 
-## Hi there my gorgeous friend <img src="assets/hi.gif" width="50px" alt="hi">
+## Hi there my Lovely Programmers friend <img src="assets/hi.gif" width="60px" alt="hi">
 
-I'm Mahmudul Hasan, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="28px" alt="hi"> Bangladesh. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Mahmudul Hasan, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="28px" alt="bd"> Bangladesh. I Spend most of time coding and love to create new applications.
 
 <img src="assets/coffe.png" width="40px" alt="hi">Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahamudulhasan.me) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahamudulhasan-me/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahamudul_hasanx) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahamudulhasanx) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamudulhasan.org@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+:computer: &emsp;I'm currently learning [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)] <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
-:e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
+:e-mail: &emsp;How to reach me: mahamudulhasan.org@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
 
 #### Things I code with
