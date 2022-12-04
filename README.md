@@ -12,7 +12,7 @@ I'm 𝓜𝓪𝓱𝓶𝓾𝓭𝓾𝓵 𝓗𝓪𝓼𝓪𝓷, a 𝐅𝐮𝐥𝐥 �
 
 :hearts: &emsp;I enjoy programming and love to lean new things. <br/>
 :computer: &emsp;I'm currently learning <img src="assets/logo.svg" width="50px" alt="node"><br/>
-:🖥️ &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+:🖥️ &emsp;To see my portfolio and latest projects visit:<a href="mahamudulhasan.me">mahamudulhasan.me</a>.<br/>
 :e-mail: &emsp;How to reach me: mahamudulhasan.org@gmail.com.<br/>
 ⚡ &emsp;Fun fact: I love to read books as well as write stories and spend some time in my little garden.
 
