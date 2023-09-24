@@ -2,11 +2,11 @@
   <img src="./assets/Github cover page.jpg" style="width: 100%" />
 </div>
 
-# Hey there, I'm Mahamudul Hasan! <img src="assets/hi.gif" width="60px" alt="hi">
+# 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐌𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥 𝐇𝐚𝐬𝐚𝐧! <img src="assets/hi.gif" width="60px" alt="hi">
 
-I'm a Web Application Developer. I spend most of my time coding and love to create new applications.
+𝙸'𝚖 𝚊 𝚆𝚎𝚋 𝙰𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝙸 𝚜𝚙𝚎𝚗𝚍 𝚖𝚘𝚜𝚝 𝚘𝚏 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚎𝚠 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜.
 
-## Connect with me <img src="assets/coffe.png" width="40px" alt="hi">
+## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src="assets/coffe.png" width="40px" alt="hi">
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahamudulhasan.me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahamudulhasan-me/)
@@ -14,15 +14,15 @@ I'm a Web Application Developer. I spend most of my time coding and love to crea
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahamudulhasanx)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahamudulhasan.org@gmail.com)
 
-### About Me
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 :hearts: I enjoy programming and love to learn new things. <br>
-:computer: I'm currently learning Next.js. <br>
+:computer: I'm currently learning <strong>Next.js.</strong> <br>
 🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://portfolio-mahamudulhasan.web.app/). <br>
 📧 How to reach me: mahamudulhasan.org@gmail.com <br>
 🌿 Fun fact: I love to read books and write stories, and I also spend some time in my little garden.
 
-## ⚙️ Technologies I code with
+## ⚙️ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐜𝐨𝐝𝐞 𝐰𝐢𝐭𝐡
 
 ![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
