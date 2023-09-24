@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/Github cover page.jpg" style="width: 100%" />
+  <img src="./assets/gitHubCover.png" style="width: 100%" />
 </div>
 
 # 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐌𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥 𝐇𝐚𝐬𝐚𝐧! <img src="./assets/hi.gif" width="60px" alt="hi">
 
 I'm a Web Application Developer. I spend most of my time coding and love to create new applications.
 
-## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src="assets/coffe.png" width="40px" alt="hi">
+## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src="./assets/coffe.png" width="40px" alt="hi">
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahamudulhasan.me)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahamudulhasan-me/)
