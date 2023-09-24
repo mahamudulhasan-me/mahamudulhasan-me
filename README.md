@@ -2,9 +2,9 @@
   <img src="./assets/Github cover page.jpg" style="width: 100%" />
 </div>
 
-# 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐌𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥 𝐇𝐚𝐬𝐚𝐧! <img src="assets/hi.gif" width="60px" alt="hi">
+# 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐌𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥 𝐇𝐚𝐬𝐚𝐧! <img src="./assets/hi.gif" width="60px" alt="hi">
 
-𝐈'𝐦 𝐚 𝐖𝐞𝐛 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 𝐈 𝐬𝐩𝐞𝐧𝐝 𝐦𝐨𝐬𝐭 𝐨𝐟 𝐦𝐲 𝐭𝐢𝐦𝐞 𝐜𝐨𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐧𝐞𝐰 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
+I'm a Web Application Developer. I spend most of my time coding and love to create new applications.
 
 ## 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src="assets/coffe.png" width="40px" alt="hi">
 
@@ -16,11 +16,11 @@
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-:hearts: 𝐈 𝐞𝐧𝐣𝐨𝐲 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐚𝐧𝐝 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐧𝐞𝐰 𝐭𝐡𝐢𝐧𝐠𝐬. <br>
-:computer: 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 <strong>𝑵𝒆𝒙𝒕.𝒋𝒔.</strong> <br>
-🌍 𝐓𝐨 𝐬𝐞𝐞 𝐦𝐲 𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐚𝐧𝐝 𝐥𝐚𝐭𝐞𝐬𝐭 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐯𝐢𝐬𝐢𝐭 [𝐦𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥𝐡𝐚𝐬𝐚𝐧.𝐦𝐞](https://portfolio-mahamudulhasan.web.app/). <br>
-📧 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: 𝐦𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥𝐡𝐚𝐬𝐚𝐧.𝐨𝐫𝐠@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦<br>
-🌿 𝑭𝒖𝒏 𝒇𝒂𝒄𝒕: 𝐈 𝐥𝐨𝐯𝐞 𝐭𝐨 𝐫𝐞𝐚𝐝 𝐛𝐨𝐨𝐤𝐬 𝐚𝐧𝐝 𝐰𝐫𝐢𝐭𝐞 𝐬𝐭𝐨𝐫𝐢𝐞𝐬, 𝐚𝐧𝐝 𝐈 𝐚𝐥𝐬𝐨 𝐬𝐩𝐞𝐧𝐝 𝐬𝐨𝐦𝐞 𝐭𝐢𝐦𝐞 𝐢𝐧 𝐦𝐲 𝐥𝐢𝐭𝐭𝐥𝐞 𝐠𝐚𝐫𝐝𝐞𝐧.
+:hearts: I enjoy programming and love to learn new things. <br>
+:computer: I'm currently learning <strong>Next.js.</strong> <br>
+🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://portfolio-mahamudulhasan.web.app/). <br>
+📧 How to reach me: mahamudulhasan.org@gmail.com <br>
+🌿 Fun fact: I love to read books and write stories, and I also spend some time in my little garden.
 
 ## ⚙️ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐈 𝐜𝐨𝐝𝐞 𝐰𝐢𝐭𝐡
 
