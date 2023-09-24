@@ -16,14 +16,10 @@ I'm a Web Application Developer. I spend most of my time coding and love to crea
 
 ### About Me
 
-:hearts: I enjoy programming and love to learn new things.
-
-:computer: I'm currently learning Next.js.
-
-🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://portfolio-mahamudulhasan.web.app/).
-
-📧 How to reach me: mahamudulhasan.org@gmail.com
-
+:hearts: I enjoy programming and love to learn new things. <br>
+:computer: I'm currently learning Next.js. <br>
+🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://portfolio-mahamudulhasan.web.app/). <br>
+📧 How to reach me: mahamudulhasan.org@gmail.com <br>
 🌿 Fun fact: I love to read books and write stories, and I also spend some time in my little garden.
 
 ## ⚙️ Technologies I code with
