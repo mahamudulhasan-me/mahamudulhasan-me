@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gitHubCover.png" style="width: 100%" />
+  <img src="./assets/gitHubCoverPhoto.png" style="width: 100%" />
 </div>
 
 # 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞, 𝐈'𝐦 𝐌𝐚𝐡𝐚𝐦𝐮𝐝𝐮𝐥 𝐇𝐚𝐬𝐚𝐧! <img src="./assets/hi.gif" width="60px" alt="hi">
