@@ -17,8 +17,8 @@ I'm a Web Application Developer. I spend most of my time coding and love to crea
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 :hearts: I enjoy programming and love to learn new things. <br>
-:computer: I'm currently learning <strong>Next.js.</strong> <br>
-🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://portfolio-mahamudulhasan.web.app/). <br>
+:computer: I'm currently learning <strong>Node.js.</strong> <br>
+🌍 To see my portfolio and latest projects visit [mahamudulhasan.me](https://mahamudul-hasan.vercel.app/). <br>
 📧 How to reach me: mahamudulhasan.org@gmail.com <br>
 🌿 Fun fact: I love to read books and write stories, and I also spend some time in my little garden.
 
