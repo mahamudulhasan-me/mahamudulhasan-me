@@ -40,8 +40,8 @@ I'm a Web Application Developer. I spend most of my time coding and love to crea
   <br>
   I am a student of Computer Science and Engineering at Dhaka International University. I love programming and am very interested in new technologies.
   
-  Visit my [portfolio](https://portfolio-mahamudulhasan.web.app/) to learn more about my work.
+  Visit my [portfolio](https://mahamudul-hasan.vercel.app/) to learn more about my work.
   
   #### Github Stats
-  ![mahamudulhasan-me's github stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasan-me&count_private=true&theme=tokyonight&hide=contribs,prs)
+  ![mahamudulhasan-me's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahamudulhasan-me&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
