@@ -14,7 +14,7 @@ I'm a passionate Web Application Developer focused on building interactive and d
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahamudul_hasanx)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahamudulhasanx)
 
-## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 📝
 
 :hearts: **I love programming**, learning new technologies, and solving real-world problems. <br>
 :computer: Currently, I'm advancing my skills in the **MERN stack**, with a focus on **PostgreSQL** for database management and **AWS** for cloud solutions. <br>
