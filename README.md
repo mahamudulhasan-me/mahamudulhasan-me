@@ -50,7 +50,7 @@ I'm a passionate Web Application Developer focused on building interactive and d
 ---
 
 <details>
- <summary>
+ <summary style="cursor:pointer;">
   <h2 style="display: inline-block;">📘 Want to Know More About Me?</h2>
 </summary>
   <br>
