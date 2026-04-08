@@ -46,7 +46,6 @@ I'm a passionate Web Application Developer focused on building interactive and d
 ![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Apollo GraphQL Badge](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://komarev.com/ghpvc/?username=mahamudulhasan-me&color=green)
 ---
 
 <details>
@@ -62,8 +61,8 @@ Check out my [Portfolio](https://mahamudul-hasan.vercel.app/) for a showcase of 
 
 ![](https://github-readme-stats.vercel.app/api?username=mahamudulhasan-me&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahamudulhasan-me&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudulhasan-me&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudulhasan-me&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://komarev.com/ghpvc/?username=mahamudulhasan-me&color=green)
 </details>
 
 ---
